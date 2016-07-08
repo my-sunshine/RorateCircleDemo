@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RotateCircleView">
+        <attr name="defaultImg" format="reference"/>
+        <attr name="imgWidth" format="float"/>
+        <attr name="scale" format="float"/>
+    </declare-styleable>
+</resources>
