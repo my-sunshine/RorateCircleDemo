@@ -25,3 +25,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.3.0'
     compile project(':roratecirclelibrary')
 }
+tasks.withType(Javadoc) {
+    options.encoding = "UTF-8"
+}
